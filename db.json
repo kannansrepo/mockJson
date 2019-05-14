@@ -1,11 +1,90 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+  	"scrip": "AADR",
+  	"quantity":430,
+  	"price":50.30,
+  	"average cost": 41.75,
+  	"invested_Amount": 17952.07,
+  	"protfolio_value": "22.06%",
+  	"unrealized": 3676.93,
+  	"return": "20.48%",
+  	"type": "MF"
+  },
+  {
+  	"scrip": "AADR",
+  	"quantity":430,
+  	"price":50.30,
+  	"average cost": 41.75,
+  	"invested_Amount": 17952.07,
+  	"protfolio_value": "22.06%",
+  	"unrealized": 3676.93,
+  	"return": "20.48%",
+  	"type": "MF"
+  },
+  {
+  	"scrip": "AADR",
+  	"quantity":430,
+  	"price":50.30,
+  	"average cost": 41.75,
+  	"invested_Amount": 17952.07,
+  	"protfolio_value": "22.06%",
+  	"unrealized": 3676.93,
+  	"return": "20.48%",
+  	"type": "MF"
+  },
+  {
+  	"scrip": "AADR",
+  	"quantity":430,
+  	"price":50.30,
+  	"average cost": 41.75,
+  	"invested_Amount": 17952.07,
+  	"protfolio_value": "22.06%",
+  	"unrealized": 3676.93,
+  	"return": "20.48%",
+  	"type": "MF"
+  },
+  {
+  	"scrip": "AADR",
+  	"quantity":430,
+  	"price":50.30,
+  	"average cost": 41.75,
+  	"invested_Amount": 17952.07,
+  	"protfolio_value": "22.06%",
+  	"unrealized": 3676.93,
+  	"return": "20.48%",
+  	"type": "MF"
+  },
+  {
+  	"scrip": "AADR",
+  	"quantity":430,
+  	"price":50.30,
+  	"average cost": 41.75,
+  	"invested_Amount": 17952.07,
+  	"protfolio_value": "22.06%",
+  	"unrealized": 3676.93,
+  	"return": "20.48%",
+  	"type": "MF"
+  },
+  {
+  	"scrip": "AADR",
+  	"quantity":430,
+  	"price":50.30,
+  	"average cost": 41.75,
+  	"invested_Amount": 17952.07,
+  	"protfolio_value": "22.06%",
+  	"unrealized": 3676.93,
+  	"return": "20.48%",
+  	"type": "MF"
+  },
+  {
+  	"scrip": "AADR",
+  	"quantity":430,
+  	"price":50.30,
+  	"average cost": 41.75,
+  	"invested_Amount": 17952.07,
+  	"protfolio_value": "22.06%",
+  	"unrealized": 3676.93,
+  	"return": "20.48%",
+  	"type": "MF"
   }
-}
+]
